@@ -1,17 +1,17 @@
-    # Project Groups
-    
-    ## Once you have a team together:
+# Project Groups
 
-    - Come up with a project/team name
+## Once you have a team together:
 
-    - Create a .md file in github.com/utk-cs340-spring23/project-groups
+- Come up with a project/team name
 
-    - Include the following information:
+- Create a .md file in github.com/utk-cs340-spring23/project-groups
 
-       * Team name
+- Include the following information:
 
-       * Names and github ids of team members.
+   * Team name
 
-       * Brief project description
+   * Names and github ids of team members.
+
+   * Brief project description
        
-       * Languages, tools, and 3rd party code likely to be used
+   * Languages, tools, and 3rd party code likely to be used
