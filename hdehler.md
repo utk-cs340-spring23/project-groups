@@ -1,4 +1,4 @@
-# Project Ideas - Planner - Harrison Dehler
+# Project Ideas - Planner - Harry Dehler
 
 ## Project Idea
 Overall, the planner app is a more in depth planner app with more features than just listing what you need to do, or plans you have. I want to create an app where you can customize the folders into multiple different sections such as 
