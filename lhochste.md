@@ -5,6 +5,7 @@
 - Gabriel Johnson  - gjohns57
 - Hayden Parsons   - HaydenParsons
 - Levi Hochstetler - snapplelevi
+- Joseph Eaton     - josephe0
 
 
 ## Summary:
